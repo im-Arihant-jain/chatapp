@@ -1,0 +1,10 @@
+.chat{
+    color: rgb(168, 168, 16);
+    max-width: 30%;
+    padding: 10px;
+   
+}
+.msg{
+    color: aquamarine;
+    background-color: rgb(61, 135, 76);
+}
